@@ -1,0 +1,16 @@
+<widget source="session.CurrentService" render="ProvPicon" position="527, 4" size="100,60" zPosition="2" transparent="1" alphatest="on">
+<convert type="ServiceName">Provider</convert>
+</widget>
+
+<widget source="session.CurrentService" render="PiconSatTV" position="630, 3" size="100,60" zPosition="1" transparent="1" alphatest="on" />
+
+<widget source="ServiceEvent" render="Picon2" position="865, 5" size="100,60" zPosition="2" transparent="1" alphatest="on" />
+
+
+
+1<<<a
+	</widget>
+		<widget source="session.CurrentService" render="PiconProv" position="243,480" size="100,60" zPosition="2" transparent="1" alphatest="on">
+                <convert type="ServiceName">Provider</convert>
+                <widget source="ServiceEvent" render="Picon2" position="243,480" size="100,60" zPosition="2" transparent="1" alphatest="on" />
+                </widget>
